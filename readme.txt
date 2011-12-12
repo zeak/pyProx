@@ -1,4 +1,4 @@
-**Simple Python Proxy**
+** Simple Python Proxy **
 
 it uses Flask and Requests for basic stuff.
 
